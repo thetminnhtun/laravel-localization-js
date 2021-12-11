@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Tmh\\LocalizationJs\\' => array($baseDir . '/src'),
+    'Thetminnhtun\\LocalizationJs\\' => array($baseDir . '/src'),
 );

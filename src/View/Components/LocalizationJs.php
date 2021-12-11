@@ -1,6 +1,6 @@
 <?php
 
-namespace Tmh\LocalizationJs\View\Components;
+namespace Thetminnhtun\LocalizationJs\View\Components;
 
 use Illuminate\View\Component;
 
