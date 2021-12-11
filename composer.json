@@ -13,7 +13,9 @@
             "email": "thetminnhtun92@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": "^7.3|^8.0"
+    },
     "extra": {
         "laravel": {
             "providers": [
