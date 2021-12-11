@@ -1,11 +1,11 @@
 <?php
 
-namespace Thetminnhtun\LocalizationJs;
+namespace Thetminnhtun\LaravelLocalizationJs;
 
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;
 
-class LocalizationJsServiceProvider extends ServiceProvider
+class LaravelLocalizationJsServiceProvider extends ServiceProvider
 {
     /**
      * Register services.
@@ -24,7 +24,7 @@ class LocalizationJsServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        Blade::componentNamespace('Thetminnhtun\\LocalizationJs\\View\\Components', 'tmh');
+        Blade::componentNamespace('Thetminnhtun\\LaravelLocalizationJs\\View\\Components', 'tmh');
 
         $this->publishes([
             __DIR__ . '/../dist/' => public_path('vendor/localization-js'),

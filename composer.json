@@ -1,10 +1,10 @@
 {
-    "name": "thetminnhtun/localization-js",
+    "name": "thetminnhtun/laravel-localization-js",
     "description": "Laravel localization for JavaScript",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Thetminnhtun\\LocalizationJs\\": "src/"
+            "Thetminnhtun\\LaravelLocalizationJs\\": "src/"
         }
     },
     "authors": [
@@ -17,7 +17,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Thetminnhtun\\LocalizationJs\\LocalizationJsServiceProvider"
+                "Thetminnhtun\\LaravelLocalizationJs\\LaravelLocalizationJsServiceProvider"
             ]
         }
     }

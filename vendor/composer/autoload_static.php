@@ -9,12 +9,12 @@ class ComposerStaticInit1e574948569de0a4f6b27133796fe09b
     public static $prefixLengthsPsr4 = array (
         'T' => 
         array (
-            'Thetminnhtun\\LocalizationJs\\' => 28,
+            'Thetminnhtun\\LaravelLocalizationJs\\' => 35,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Thetminnhtun\\LocalizationJs\\' => 
+        'Thetminnhtun\\LaravelLocalizationJs\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

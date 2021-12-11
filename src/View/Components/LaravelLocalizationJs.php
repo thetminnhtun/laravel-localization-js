@@ -1,10 +1,10 @@
 <?php
 
-namespace Thetminnhtun\LocalizationJs\View\Components;
+namespace Thetminnhtun\LaravelLocalizationJs\View\Components;
 
 use Illuminate\View\Component;
 
-class LocalizationJs extends Component
+class LaravelLocalizationJs extends Component
 {
     /**
      * Create a new component instance.
