@@ -1,0 +1,24 @@
+{
+    "name": "tmh/localization-js",
+    "description": "Laravel localization for JavaScript",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tmh\\LocalizationJs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thet Minn Htun",
+            "email": "thetminnhtun92@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tmh\\LocalizationJs\\LocalizationJsServiceProvider"
+            ]
+        }
+    }
+}
