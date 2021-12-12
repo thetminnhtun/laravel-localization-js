@@ -1,8 +1,8 @@
 # Laravel Localization JS
 
 [![Issues](https://img.shields.io/github/issues/thetminnhtun/laravel-localization-js)](https://github.com/thetminnhtun/laravel-localization-js/issues)
-[![Forks](https://img.shields.io/github/forks/thetminnhtun/laravel-localization-js)](https://github.com/thetminnhtun/laravel-localization-js/forks)
-[![Stars](https://img.shields.io/github/stars/thetminnhtun/laravel-localization-js)](https://github.com/thetminnhtun/laravel-localization-js/stars)
+![Forks](https://img.shields.io/github/forks/thetminnhtun/laravel-localization-js)
+![Stars](https://img.shields.io/github/stars/thetminnhtun/laravel-localization-js)
 
 Laravel localization for JavaScript
 
