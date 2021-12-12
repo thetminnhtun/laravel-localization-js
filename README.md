@@ -70,7 +70,6 @@ In `my.json`
 Getting a message from JavaScript
 
 ```js
-// app.js
 console.log(Lang.get('Welcome'));
 console.log(Lang.get('Hello', {name: 'Mg Mg'}));
 ```
